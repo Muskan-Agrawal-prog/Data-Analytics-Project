@@ -1,5 +1,5 @@
 # Data-Analytics-Project
-# Employee Performance & Salary Analysis 📊
+# Employee Performance & Salary Analysis 
 
 ##  Project Overview
 
